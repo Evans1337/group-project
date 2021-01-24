@@ -5,7 +5,7 @@ BilibiliSpider：爬取哔哩哔哩弹幕
 
 biliFileProcessor：弹幕信息处理
 
-emotion：情感打分分类
+emotion：情感打分分类，并制作图表
 
 CLOUD：制作词云
 
